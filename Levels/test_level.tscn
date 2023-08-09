@@ -1464,3 +1464,5 @@ drag_vertical_enabled = true
 physics_material_override = SubResource("PhysicsMaterial_a1q40")
 
 [node name="Sprite2D" type="Sprite2D" parent="StaticBody2D"]
+
+[node name="Test" type="Node2D" parent="."]
